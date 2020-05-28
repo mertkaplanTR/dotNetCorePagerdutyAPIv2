@@ -1,0 +1,10 @@
+{
+  "incident": {
+    "type": "incident",
+    "title": "The server is on fire.",
+    "service": {
+      "id": "PXXXXXXXXXXXXX",
+      "type": "service_reference"
+    }
+  }
+}
